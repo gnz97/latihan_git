@@ -1,6 +1,6 @@
 .data1{
-    border: 1px solid black;
-    background-color: rgb(12, 87, 122);
+    border: 10px solid black;
+    background-color: blue;
     color: white;
     text-align: center;
 }
