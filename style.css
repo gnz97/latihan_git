@@ -1,0 +1,13 @@
+.data1{
+    border: 1px solid black;
+    background-color: rgb(12, 87, 122);
+    color: white;
+    text-align: center;
+}
+
+.paragraph1{
+    border: 1px solid black;
+    background-color: rgb(228, 35, 83);
+    color: white;
+    text-align: center;
+}
